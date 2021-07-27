@@ -1,3 +1,4 @@
 # hello-world
-How to restart life anew
-You opened your eyes....The world is pitch black.
+How to start life anew.
+
+You open your eyes....The world is pitch black.
